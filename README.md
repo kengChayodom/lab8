@@ -1,0 +1,15 @@
+# lab8
+
+
+2.6
+docker container run hello-world
+![image](https://github.com/user-attachments/assets/a16b246d-7f34-4d3b-b0d3-f83832263403)
+
+
+3.2
+docker run -p 8100:80 nginx
+![image](https://github.com/user-attachments/assets/893710ba-d16c-4f65-8a9c-14f688724469)
+
+
+3.9
+![image](https://github.com/user-attachments/assets/17238cfb-43a8-4dd2-8bbb-6d0b4bb34046)
